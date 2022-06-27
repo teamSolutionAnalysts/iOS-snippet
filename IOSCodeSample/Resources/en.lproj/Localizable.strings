@@ -1,0 +1,55 @@
+/* 
+  Localizable.strings
+  IOSCodeSample
+
+  Created by Dhaval Soni on 22/06/22.
+  Copyright © 2022 Solution Analysts Pvt. Ltd. All rights reserved.
+*/
+"enterMobileNo"                 = "Enter mobile no";
+"mobileNumber"                  = "Mobile Number";
+"emailAddress"                  = "Email address";
+"password"                      = "Password";
+"login"                         = "Login";
+"forgotPassword"                = "Forgot password";
+"dontHaveAccount"               = "You don't have an account yet?";
+"registerNow"                   = "Join Us";
+
+
+//REGISTER
+
+"userTitle"                     = "Title";
+"firstName"                     = "First name";
+"lastName"                      = "Last name";
+"enterEmail"                    = "Enter email address";
+"Mr."                           = "Mr.";
+"Mrs."                          = "Mrs.";
+"Miss"                          = "Miss";
+"Dr."                           = "Dr.";
+"chooseYourTitle"               = "Choose your title";
+"chooseYourCountryCode"         = "Choose your country code";
+"enterPassword"                 = "Enter password";
+"confirmPassword"               = "Confirm password";
+"phoneDesc"                     = "Remove the 0 in front of your mobile number. i.e: $";
+"passwordDesc"                  = "Password should be at least 8 characters, 1 upper case, and 1 number.";
+"done"                          = "Done";
+"passwordConfirm"               = "Confirm Password";
+"yes"                           = "Yes";
+"no"                            = "No";
+"ok"                            = "Ok";
+"largeImageSize"                = "Uploaded file size is greater than 15MB, Please upload  file with smaller size.";
+"tryAgainLater"                 = "Something went wrong!! \nPlease try again later.";
+"noInternet"                    = "No internet connection.";
+"noCountryCode"                 = "Please select the country code.";
+"noMobileNumber"                = "Please enter mobile number.";
+"validMobileNumber"             = "Please enter a valid mobile number.";
+"noPassword"                    = "Please enter password.";
+"validPassword"                 = "Password should be at least 8 characters, 1 upper case, and 1 number.";
+"noConfirmPassword"             = "Please enter confirm password.";
+"noMatchOnPasswords"            = "Password and confirm password does't match.";
+"noUserTitle"                   = "Please select title.";
+"noFirstName"                   = "Please enter first name.";
+"noLastName"                    = "Please enter last name.";
+"noEmailAddress"                = "Please enter email address.";
+"validEmailAddress"             = "Please enter a valid email address.";
+"home"                          = "Home";
+"logoutDesc"                    = "Are you sure you want to logout?";

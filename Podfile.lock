@@ -1,0 +1,57 @@
+PODS:
+  - Alamofire (5.6.1)
+  - IQKeyboardManagerSwift (6.5.10)
+  - Moya (14.0.0):
+    - Moya/Core (= 14.0.0)
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+  - MRCountryPicker (0.0.9)
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+  - PhoneNumberKit (3.3.4):
+    - PhoneNumberKit/PhoneNumberKitCore (= 3.3.4)
+    - PhoneNumberKit/UIKit (= 3.3.4)
+  - PhoneNumberKit/PhoneNumberKitCore (3.3.4)
+  - PhoneNumberKit/UIKit (3.3.4):
+    - PhoneNumberKit/PhoneNumberKitCore
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift (~> 6.5)
+  - Moya (~> 14.0.0)
+  - MRCountryPicker (from `https://github.com/rajanshahsa/MRCountryPicker`)
+  - NVActivityIndicatorView (~> 4.8.0)
+  - PhoneNumberKit (~> 3.1)
+  - SwiftyJSON (~> 5.0.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - Moya
+    - NVActivityIndicatorView
+    - PhoneNumberKit
+    - SwiftyJSON
+
+EXTERNAL SOURCES:
+  MRCountryPicker:
+    :git: https://github.com/rajanshahsa/MRCountryPicker
+
+CHECKOUT OPTIONS:
+  MRCountryPicker:
+    :commit: b06eeb687a9784012e3e68914004d0cec07d954b
+    :git: https://github.com/rajanshahsa/MRCountryPicker
+
+SPEC CHECKSUMS:
+  Alamofire: 87bd8c952f9a4454320fce00d9cc3de57bcadaf5
+  IQKeyboardManagerSwift: 52962c76ab33532f15ad9f3ff4e5715eda5335bb
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+  MRCountryPicker: 382260a8113261c4a40f5cd1b70b46250da6893e
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+  PhoneNumberKit: 441e8b26ec88d598e3591de9061eff18f5dd12e8
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: df745b0c8c19b4673b2b506f48cde0790f5e4d5a
+
+COCOAPODS: 1.11.3
